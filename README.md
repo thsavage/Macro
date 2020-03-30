@@ -1,2 +1,2 @@
-# ts2468-nyu.edu
-Macro
+# Macro
+Feel free to sample.
